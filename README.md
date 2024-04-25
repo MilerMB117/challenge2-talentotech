@@ -6,9 +6,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 ### Convertir grados Fahrenheit a grados Celsius
 
-\```http
+```http
   GET /grade/fahrenheitToCelcius/{fahrenheit}
-\```
+```
 
 | Parámetro  | Tipo     | Descripción                   |
 | :--------- | :------- | :---------------------------- |
@@ -16,9 +16,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 #### Ejemplo de uso
 
-\```http
+```http
   GET http://localhost:8080/grade/fahrenheitToCelcius/77
-\```
+```
 
 #### Respuesta esperada
 
@@ -28,9 +28,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 ### Convertir grados Fahrenheit a grados Kelvin
 
-\```http
+```http
   GET /grade/fahrenheitToKelvin/{fahrenheit}
-\```
+```
 
 | Parámetro  | Tipo     | Descripción                   |
 | :--------- | :------- | :---------------------------- |
@@ -38,9 +38,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 #### Ejemplo de uso
 
-\```http
+```http
   GET http://localhost:8080/grade/fahrenheitToKelvin/77
-\```
+```
 
 #### Respuesta esperada
 
@@ -50,9 +50,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 ### Convertir grados Kelvin a grados Celsius
 
-\```http
+```http
   GET /grade/kelvinToCelsius/{kelvin}
-\```
+```
 
 | Parámetro  | Tipo     | Descripción                   |
 | :--------- | :------- | :---------------------------- |
@@ -60,9 +60,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 #### Ejemplo de uso
 
-\```http
+```http
   GET http://localhost:8080/grade/kelvinToCelsius/298.15
-\```
+```
 
 #### Respuesta esperada
 
@@ -72,9 +72,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 ### Convertir grados Kelvin a grados Fahrenheit
 
-\```http
+```http
   GET /grade/kelvinToFahrenheit/{kelvin}
-\```
+```
 
 | Parámetro  | Tipo     | Descripción                   |
 | :--------- | :------- | :---------------------------- |
@@ -82,9 +82,9 @@ Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Propo
 
 #### Ejemplo de uso
 
-\```http
+```http
   GET http://localhost:8080/grade/kelvinToFahrenheit/298.15
-\```
+```
 
 #### Respuesta esperada
 
