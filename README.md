@@ -1,6 +1,6 @@
 # API de Conversión de Temperatura
 
-Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Proporciona servicios para realizar conversiones de temperatura entre grados Celsius, Fahrenheit y Kelvin.
+Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Proporciona servicios para realizar conversiones de temperatura entre grados Celsius, Fahrenheit y Kelvin. Hecho para el bootcamp de Arquitectura en la nube de TalentoTech 2024.
 
 ## API Endpoints
 
