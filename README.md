@@ -2,6 +2,12 @@
 
 Este proyecto es una API REST desarrollada en Java utilizando Spring Boot. Proporciona servicios para realizar conversiones de temperatura entre grados Celsius, Fahrenheit y Kelvin. Hecho para el bootcamp de Arquitectura en la nube de TalentoTech 2024.
 
+## Features
+
+ - [Springboot](https://spring.io/projects/spring-boot)
+ - [Java SDK 22](https://www.oracle.com/java/technologies/downloads/)
+ - [Spring WEB Dependency](https://mvnrepository.com/artifact/org.springframework/spring-web)
+
 ## API Endpoints
 
 ### Convertir grados Fahrenheit a grados Celsius
@@ -108,7 +114,7 @@ El servidor se iniciará en `http://localhost:8080` por defecto.
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si encuentras algún error o tienes una mejora, por favor crea un _pull request_ detallando los cambios propuestos.
+Las contribuciones son bienvenidas. Si encuentras algún error o tienes una mejora, por favor crea un _pull request_ detallando los cambios propuestos. Y deja tu 
 
 ## Licencia
 
