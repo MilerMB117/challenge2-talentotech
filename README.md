@@ -114,7 +114,7 @@ El servidor se iniciará en `http://localhost:8080` por defecto.
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si encuentras algún error o tienes una mejora, por favor crea un _pull request_ detallando los cambios propuestos. Y deja tu 
+Las contribuciones son bienvenidas. Si encuentras algún error o tienes una mejora, por favor crea un _pull request_ detallando los cambios propuestos. Y deja tu estrella :star:.
 
 ## Licencia
 
