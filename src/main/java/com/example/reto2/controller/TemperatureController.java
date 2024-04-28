@@ -1,5 +1,3 @@
-// TemperatureController.java
-
 package com.example.reto2.controller;
 
 import com.example.reto2.service.TemperatureConversionService;
